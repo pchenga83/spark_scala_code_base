@@ -1,0 +1,10 @@
+Scala is desgin by martin odersky
+Scala is a functional programming
+Scala is an object oriented programming
+Scala is a scripting language
+Scala runs on JVM
+Type Inferred
+Scala is an immutable by default
+Scala is an extensiable API
+Scala is  concise and convenient API
+File extension : .scala  and .sc

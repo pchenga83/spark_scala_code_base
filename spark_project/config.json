@@ -1,0 +1,4 @@
+{"table":"emp", "col":"eid", "tr":"trim"}
+{"table":"emp", "col":"eid", "tr":"replace"}
+{"table":"emp", "col":"eid", "tr":"upper"}
+{"table":"emp", "col":"eid", "tr":"reverse"}
